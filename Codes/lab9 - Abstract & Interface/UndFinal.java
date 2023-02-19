@@ -14,6 +14,5 @@ class B extends A{ // Error- because final class cannt be inherited
 }
 public class UndFinal {
     public static void main(String[] args) {       
-    
-	}  
+    }  
 }
